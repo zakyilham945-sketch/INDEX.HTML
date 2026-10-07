@@ -1,2 +1,15 @@
 h1 {
-  
+        font-family:Arial;
+        background-color:aqua; color:white;
+        font-size:large;
+      }
+      h2 {
+        font-style:italic;
+        font-family:TNT;
+        background-color:blanchedalmond; color:white;
+        font-size:medium;
+      }
+      h3 {
+        font-style:courier new;
+        background-color:blue; color:white;
+        font-size:medium;
